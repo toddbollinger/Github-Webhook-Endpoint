@@ -1,0 +1,4 @@
+.vs
+Github.Webhook.Endpoint/bin
+Github.Webhook.Endpoint/obj
+Github.Webhook.Endpoint/Properties/PublishProfiles
